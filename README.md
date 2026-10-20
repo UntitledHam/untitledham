@@ -4,6 +4,7 @@ Interested in Backend Engineering and DevOPs. Proficent with Python, Java, TS/JS
 
 Lead Developer of [ListenToLocal.org](https://listentolocal.org/) a recommender service for local music events.
 
-[My Website](https://untitledham.com)
-
 Contact me at abemanfra@gmail.com
+
+
+[My Website](https://untitledham.com)
