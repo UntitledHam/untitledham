@@ -2,4 +2,8 @@
 Computer Science Bachelor of Science at Ithaca College
 Interested in Backend Engineering and DevOPs. Proficent with Python, Java, TS/JS, Go, Rust, C. Familar with FastAPI, SQLAlchemy, Pydantic, ElysiaJS, PrismaORM, PyTorch. 
 
+Lead Developer of [ListenToLocal.org](https://listentolocal.org/) a recommender service for local music events.
+
 [My Website](https://untitledham.com)
+
+Contact me at abemanfra@gmail.com
